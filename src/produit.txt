@@ -1,0 +1,5 @@
+25 tomate Vegital 5 froid 2021-12-3 30
+88 viande Animal 33 froid 2021-12-29 55
+43 confiture Vegital 25 froid 2021-12-23 100
+654 44 Fruits 1 froid 2021-11-30 1
+5 2 Fruits 1 froid 2021-12-31 1

@@ -1,0 +1,6 @@
+1122 temperature 15 100 2 2 25 2 2000 
+1122 temperature 1 40 2 2 25 2 2000 
+75 temperature 9 4 3 2 4 3 2000 
+1144 temperature 3 5 1 1 25 2 2000 
+4456 temperature 1 1 4 4 25 2 2000 
+4456 temperature 1 1 4 4 25 2 2000 
