@@ -23,6 +23,8 @@ typedef struct{
 }signalCapteur;
 
 
+
+
 int authUser(char fichier[], char CIN[], char pass[]);
 
 //Fonctions ADMIN
